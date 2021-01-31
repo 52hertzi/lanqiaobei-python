@@ -1,1 +1,1 @@
-# lanqiaobei-python
+# 蓝桥杯Python练习
