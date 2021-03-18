@@ -1,1 +1,1 @@
-# 蓝桥杯Python练习
+# Python学习
